@@ -1,0 +1,15 @@
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\bin\Debug\net6.0\ProgressTest2.exe
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\bin\Debug\net6.0\ProgressTest2.deps.json
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\bin\Debug\net6.0\ProgressTest2.runtimeconfig.json
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\bin\Debug\net6.0\ProgressTest2.dll
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\bin\Debug\net6.0\ProgressTest2.pdb
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\ProgressTest2.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\ProgressTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\ProgressTest2.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\ProgressTest2.AssemblyInfo.cs
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\ProgressTest2.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\ProgressTest2.dll
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\refint\ProgressTest2.dll
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\ProgressTest2.pdb
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\ProgressTest2.genruntimeconfig.cache
+C:\Users\dell\Documents\CodeSemester5\ProgressTest2\obj\Debug\net6.0\ref\ProgressTest2.dll

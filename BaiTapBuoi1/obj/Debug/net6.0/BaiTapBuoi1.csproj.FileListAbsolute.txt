@@ -1,0 +1,15 @@
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.exe
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.deps.json
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.runtimeconfig.json
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.dll
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.pdb
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.AssemblyInfo.cs
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.dll
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\refint\BaiTapBuoi1.dll
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.pdb
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.genruntimeconfig.cache
+C:\Users\dell\Documents\CodeSemester5\BaiTapBuoi1\obj\Debug\net6.0\ref\BaiTapBuoi1.dll
